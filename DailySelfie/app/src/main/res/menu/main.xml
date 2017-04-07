@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="org.lrazo.dailyselfie.SelfieActivity" >
+
+    <item
+        android:id="@+id/take_photo"
+        android:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:title="@string/make_photo"/>
+
+</menu>
